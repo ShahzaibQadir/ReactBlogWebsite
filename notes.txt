@@ -1,0 +1,6 @@
+For Running Server Js File
+npx json-server --watch data/db.json --port 8000
+
+
+For ReactRouter Version 5
+npm i react-router-dom@5       
